@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\DotNetCore2026\StudentCourseManagement\StudentCourseManagement\bin\Debug\net8.0\StudentCourseManagement.exe
+C:\Users\HP\OneDrive\Desktop\DotNetCore2026\StudentCourseManagement\StudentCourseManagement\bin\Debug\net8.0\StudentCourseManagement.deps.json
+C:\Users\HP\OneDrive\Desktop\DotNetCore2026\StudentCourseManagement\StudentCourseManagement\bin\Debug\net8.0\StudentCourseManagement.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\DotNetCore2026\StudentCourseManagement\StudentCourseManagement\bin\Debug\net8.0\StudentCourseManagement.dll
+C:\Users\HP\OneDrive\Desktop\DotNetCore2026\StudentCourseManagement\StudentCourseManagement\bin\Debug\net8.0\StudentCourseManagement.pdb
+C:\Users\HP\OneDrive\Desktop\DotNetCore2026\StudentCourseManagement\StudentCourseManagement\obj\Debug\net8.0\StudentCourseManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\DotNetCore2026\StudentCourseManagement\StudentCourseManagement\obj\Debug\net8.0\StudentCourseManagement.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\DotNetCore2026\StudentCourseManagement\StudentCourseManagement\obj\Debug\net8.0\StudentCourseManagement.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\DotNetCore2026\StudentCourseManagement\StudentCourseManagement\obj\Debug\net8.0\StudentCourseManagement.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\DotNetCore2026\StudentCourseManagement\StudentCourseManagement\obj\Debug\net8.0\StudentCourseManagement.dll
+C:\Users\HP\OneDrive\Desktop\DotNetCore2026\StudentCourseManagement\StudentCourseManagement\obj\Debug\net8.0\refint\StudentCourseManagement.dll
+C:\Users\HP\OneDrive\Desktop\DotNetCore2026\StudentCourseManagement\StudentCourseManagement\obj\Debug\net8.0\StudentCourseManagement.pdb
+C:\Users\HP\OneDrive\Desktop\DotNetCore2026\StudentCourseManagement\StudentCourseManagement\obj\Debug\net8.0\StudentCourseManagement.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\DotNetCore2026\StudentCourseManagement\StudentCourseManagement\obj\Debug\net8.0\ref\StudentCourseManagement.dll
